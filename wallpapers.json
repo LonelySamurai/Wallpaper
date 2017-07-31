@@ -1,39 +1,61 @@
 {
 	"wallpapers": [
 		{
-			"name": "2322",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/2322.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "01",
+			"author": "Viktor Sporakeshi",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/01.jpg",
+			"dimensions": "1728 x 3072",
+			"copyright": "Free"
 		},
 		{
-			"name": "Airplane",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Airplane.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "Oh",
+			"author": "Found on Google+",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/Oh.png",
+			"dimensions": "1152 x 2048",
+			"copyright": "Free"
 		},
 		{
-			"name": "AutumnLeaves",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/AutumnLeaves.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "Spheres",
+			"author": "Found on Google+",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/Spheres.jpg",
+                        "dimensions": "900 x 1600",
+			"copyright": "Free"
 		},
 		{
-			"name": "Bay",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Bay.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "Dino",
+			"author": "Found on Zedge",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/dino.jpg",
+			"dimensions": "1440 x 1280",
+			"copyright": "Free"
 		},
 		{
-			"name": "Birds",
-			"author": "Jahir Fiquitiva",
-			"url": "http://www.jahirfiquitiva.net/wallpapers/Birds.jpg",
-			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"name": "Liberty",
+			"author": "Jeremy DuBois",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/liberty.png",
+			"dimensions": "640 x 1280",
+			"copyright": "Free"
+		},
+		{
+			"name": "Shells",
+			"author": "Found on Google+",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/shells.jpg",
+			"dimensions": "960 x 800",
+			"copyright": "Free"
+		},
+		{
+			"name": "Skies",
+			"author": "Jeremy DuBois",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/skies.png",
+			"dimensions": "2160 x 1920",
+			"copyright": "Free"
+		},
+		{
+			"name": "Splash",
+			"author": "Found on Google+",
+			"url": "https://github.com/LonelySamurai/Wallpaper/blob/master/splash.jpg",
+			"dimensions": "311 x 552",
+			"copyright": "Free"
 		}
 	]
+
 }
